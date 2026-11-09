@@ -1,0 +1,10 @@
+{
+    "model_name": "Financial ML Prediction Service",
+    "algorithm": "XGBoost",
+    "ticker": "BTC-USD",
+    "prediction_type": "next_executable_hour_direction",
+    "features": 26,
+    "artifact": "ai_model.pkl",
+    "model_status": "demonstration",
+    "not_financial_advice": true
+}
